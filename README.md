@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VicKoz
+- 👋 Hi, I’m @Victor
 - 👀 I’m an electronic engineer
 - 🌱 I’m currently make my site here
 - 💞️ I’m looking to collaborate on ...
